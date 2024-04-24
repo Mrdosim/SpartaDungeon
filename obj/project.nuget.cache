@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sX8d6dq61uqF84WCAIjKbT+pUR9GME6Jaa2bAUnBjrWfs4FDRwKlKAbNRM21y1citEZUjgdPCTJxuhaSPrynAA==",
+  "dgSpecHash": "E0RiSTd+fhl2QvCj17p29nooQPFm2Faz1kHCCR/CJgX7DMSjlLEFehn5bBMDuyA5DoO+81G9/ipZhuCAFnmYvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\avavel\\source\\repos\\SpartaCoding_C#_Grammer\\SpartaDungeon\\SpartaDungeon.csproj",
+  "projectFilePath": "C:\\Users\\avavel\\OneDrive\\Documents\\GitHub\\SpartaDungeon\\SpartaDungeon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\avavel\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
