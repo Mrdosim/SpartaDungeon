@@ -60,10 +60,12 @@ namespace SpartaDungeon
                             player.Inventory.Add(items[itemNumber]);
                             player.Gold -= items[itemNumber].Price;
                             Console.WriteLine("\n구매를 완료했습니다.");
+                            Thread.Sleep(1000);
                         }
                         else
                         {
                             Console.WriteLine("\nGold가 부족합니다.");
+                            Thread.Sleep(1000);
                         }
                     }
                     else
