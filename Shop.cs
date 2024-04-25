@@ -11,12 +11,13 @@ namespace SpartaDungeon
     {
         public static void ShopManagement(Player player, List<Item> items)
         {
-            Display.DisplayShop(player, items);
+            
             bool shopping = true;
-            string option = Console.ReadLine();
+            
             while (shopping)
             {
-
+                Display.DisplayShop(player, items);
+                string option = Console.ReadLine();
                 switch (option)
                 {
                     case "1":
