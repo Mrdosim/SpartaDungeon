@@ -87,7 +87,7 @@
                         Inventory.ManageInventory(player);
                         break;
                     case "3":
-                        Display.DisplayShop(player, Item.Items);
+                        Shop.ShopManagement(player, Item.Items);
                         break;
                     case "4":
                         Dungeon.ManageDungeon(player);

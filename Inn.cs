@@ -21,7 +21,7 @@ namespace SpartaDungeon
                     Console.WriteLine("\n\n휴식하며 체력을 회복 중...");
                     Thread.Sleep(1000);
                     Console.WriteLine("\n 체력이 회복되었습니다!");
-                    player.Health = Player.maxHealth;
+                    player.Health = player.maxHealth;
                     player.Gold -= 500;
                     return;
                 default:

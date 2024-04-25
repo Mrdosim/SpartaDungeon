@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.VisualBasic.FileIO;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +9,31 @@ namespace SpartaDungeon
 {
     class Shop
     {
+        public static void ShopManagement(Player player, List<Item> items)
+        {
+            bool shopping = true;
+            string option = Console.ReadLine();
+            while (shopping)
+            {
 
+                switch (option)
+                {
+                    case "1":
+                        Shop.BuyItem(player, items);
+                        break;
+                    case "2":
+                        Shop.SellItem(player, items);
+                        break;
+                    case "0":
+                        shopping = false;
+                        break;
+                    default:
+                        Console.WriteLine("잘못된 입력입니다.");
+                        Thread.Sleep(1000);
+                        break;
+                }
+            }
+        }
         public static void BuyItem(Player player, List<Item> items)
         {
             bool isBuyItem = true;

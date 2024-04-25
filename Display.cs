@@ -98,9 +98,6 @@ namespace SpartaDungeon
         public static void DisplayShop(Player player, List<Item> items)
         {
 
-            bool shopping = true;
-            while (shopping)
-            {
                 Console.Clear();
                 DrawTitle();
                 Console.WriteLine("필요한 아이템을 얻을 수 있는 상점입니다.\n");
@@ -110,25 +107,7 @@ namespace SpartaDungeon
                 Console.WriteLine("2. 아이템 판매");
                 Console.WriteLine("0. 나가기");
                 Console.Write("\n원하시는 행동을 입력해주세요. >> ");
-                string option = Console.ReadLine();
-
-                switch (option)
-                {
-                    case "1":
-                        Shop.BuyItem(player, items);
-                        break;
-                    case "2":
-                        Shop.SellItem(player, items);
-                        break;
-                    case "0":
-                        shopping = false;
-                        break;
-                    default:
-                        Console.WriteLine("잘못된 입력입니다.");
-                        Thread.Sleep(1000);
-                        break;
-                }
-            }
+           
         }
         public static void DisplayBuyItem(Player player, List<Item> items)
         {

@@ -8,7 +8,7 @@ namespace SpartaDungeon
 {
     class Player
     {
-        public static float maxHealth;
+        public float maxHealth;
         
 
         public int Level { get;  set; }

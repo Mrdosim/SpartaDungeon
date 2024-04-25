@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\avavel\\OneDrive\\Documents\\GitHub\\SpartaDungeon\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21CF2EC7-3E0F-4E29-9EA5-43C5CBEA66D8}|SpartaDungeon.csproj|c:\\users\\avavel\\onedrive\\documents\\github\\spartadungeon\\inn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CF2EC7-3E0F-4E29-9EA5-43C5CBEA66D8}|SpartaDungeon.csproj|solutionrelative:inn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CF2EC7-3E0F-4E29-9EA5-43C5CBEA66D8}|SpartaDungeon.csproj|c:\\users\\avavel\\onedrive\\documents\\github\\spartadungeon\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CF2EC7-3E0F-4E29-9EA5-43C5CBEA66D8}|SpartaDungeon.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CF2EC7-3E0F-4E29-9EA5-43C5CBEA66D8}|SpartaDungeon.csproj|c:\\users\\avavel\\onedrive\\documents\\github\\spartadungeon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CF2EC7-3E0F-4E29-9EA5-43C5CBEA66D8}|SpartaDungeon.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CF2EC7-3E0F-4E29-9EA5-43C5CBEA66D8}|SpartaDungeon.csproj|c:\\users\\avavel\\onedrive\\documents\\github\\spartadungeon\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CF2EC7-3E0F-4E29-9EA5-43C5CBEA66D8}|SpartaDungeon.csproj|solutionrelative:shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CF2EC7-3E0F-4E29-9EA5-43C5CBEA66D8}|SpartaDungeon.csproj|c:\\users\\avavel\\onedrive\\documents\\github\\spartadungeon\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CF2EC7-3E0F-4E29-9EA5-43C5CBEA66D8}|SpartaDungeon.csproj|solutionrelative:display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CF2EC7-3E0F-4E29-9EA5-43C5CBEA66D8}|SpartaDungeon.csproj|c:\\users\\avavel\\onedrive\\documents\\github\\spartadungeon\\dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CF2EC7-3E0F-4E29-9EA5-43C5CBEA66D8}|SpartaDungeon.csproj|solutionrelative:dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CF2EC7-3E0F-4E29-9EA5-43C5CBEA66D8}|SpartaDungeon.csproj|c:\\users\\avavel\\onedrive\\documents\\github\\spartadungeon\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CF2EC7-3E0F-4E29-9EA5-43C5CBEA66D8}|SpartaDungeon.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inn.cs",
+              "DocumentMoniker": "C:\\Users\\avavel\\OneDrive\\Documents\\GitHub\\SpartaDungeon\\Inn.cs",
+              "RelativeDocumentMoniker": "Inn.cs",
+              "ToolTip": "C:\\Users\\avavel\\OneDrive\\Documents\\GitHub\\SpartaDungeon\\Inn.cs",
+              "RelativeToolTip": "Inn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T00:10:57.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dungeon.cs",
+              "DocumentMoniker": "C:\\Users\\avavel\\OneDrive\\Documents\\GitHub\\SpartaDungeon\\Dungeon.cs",
+              "RelativeDocumentMoniker": "Dungeon.cs",
+              "ToolTip": "C:\\Users\\avavel\\OneDrive\\Documents\\GitHub\\SpartaDungeon\\Dungeon.cs",
+              "RelativeToolTip": "Dungeon.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAYwGIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T00:06:25.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\avavel\\OneDrive\\Documents\\GitHub\\SpartaDungeon\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\avavel\\OneDrive\\Documents\\GitHub\\SpartaDungeon\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T00:06:11.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\avavel\\OneDrive\\Documents\\GitHub\\SpartaDungeon\\Inventory.cs",
+              "RelativeDocumentMoniker": "Inventory.cs",
+              "ToolTip": "C:\\Users\\avavel\\OneDrive\\Documents\\GitHub\\SpartaDungeon\\Inventory.cs",
+              "RelativeToolTip": "Inventory.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwDUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T00:04:17.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\avavel\\OneDrive\\Documents\\GitHub\\SpartaDungeon\\Shop.cs",
+              "RelativeDocumentMoniker": "Shop.cs",
+              "ToolTip": "C:\\Users\\avavel\\OneDrive\\Documents\\GitHub\\SpartaDungeon\\Shop.cs",
+              "RelativeToolTip": "Shop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T00:03:02.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\avavel\\OneDrive\\Documents\\GitHub\\SpartaDungeon\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\avavel\\OneDrive\\Documents\\GitHub\\SpartaDungeon\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwFkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T00:03:01.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Display.cs",
+              "DocumentMoniker": "C:\\Users\\avavel\\OneDrive\\Documents\\GitHub\\SpartaDungeon\\Display.cs",
+              "RelativeDocumentMoniker": "Display.cs",
+              "ToolTip": "C:\\Users\\avavel\\OneDrive\\Documents\\GitHub\\SpartaDungeon\\Display.cs",
+              "RelativeToolTip": "Display.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAUwGwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T00:02:00.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

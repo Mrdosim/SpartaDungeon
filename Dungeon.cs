@@ -96,7 +96,7 @@ namespace SpartaDungeon
                     {
                         Display.DisplayDungeonFail(dungeonName);
                         double tempHealth = player.Health;
-                        double newHealth = player.Health - (Player.maxHealth / 2);
+                        double newHealth = player.Health - (player.maxHealth / 2);
                         if (newHealth > 0)
                         {
                             player.Health = newHealth;
